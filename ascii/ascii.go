@@ -7,9 +7,9 @@ import (
 	"os"
 
 	"github.com/nfnt/resize"
-	"github.com/zyxar/image2ascii/term"
+	"github.com/jakewarren/image2ascii/term"
 
-	_ "github.com/zyxar/image2ascii/ico"
+	_ "github.com/jakewarren/image2ascii/ico"
 	_ "golang.org/x/image/bmp"
 	_ "golang.org/x/image/tiff"
 	_ "golang.org/x/image/vp8l"

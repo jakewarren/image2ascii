@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/zyxar/image2ascii/ico"
+	"github.com/jakewarren/image2ascii/ico"
 )
 
 func TestDecodeAll(t *testing.T) {
