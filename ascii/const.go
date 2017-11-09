@@ -2,7 +2,7 @@ package ascii
 
 const (
 	keyEscape                    = 27
-	ascii_palette                = "   ...',;:clodxkO0KXNWM"
+	ascii_palette                = "   ...',;:clodxkO0KXNWM+&@#8"
 	ascii_palette_length         = len(ascii_palette) - 1
 	threshold_low        float64 = 0.1
 	threshold_high       float64 = 1 - threshold_low
